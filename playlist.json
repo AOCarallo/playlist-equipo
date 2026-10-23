@@ -1,11 +1,6 @@
 {
-<<<<<<< HEAD
   "nombre": "David Bisbal",
   "genero": "indie",
-=======
-  "nombre": "Playlist de clase",
-  "genero": "Hip hop",
->>>>>>> 35638e8329e41f0ab57d7ea077a34fc35105711e
   "canciones": [
     "Canción 1",
     "Canción 2",
